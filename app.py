@@ -14,4 +14,4 @@ tasa_anual_pct = st.number_input("Ingrese de la tasa anual")
 dias_mora = st.number_input("Ingrese los días de mora")
 
 
-resultado = lf.calcular_interes_mora()
+# resultado = lf.calcular_interes_mora()
